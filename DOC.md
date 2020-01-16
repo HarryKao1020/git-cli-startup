@@ -22,3 +22,12 @@ Hello world
 Hello world
 Hello world
 ```
+
+```python
+def hello():
+    print('Hello world')
+
+hello()
+```
+---
+![](./nine.jpg)
