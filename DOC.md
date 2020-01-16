@@ -13,3 +13,12 @@ Hello ~~markdown~~ 刪除縣
 <https://google.com>
 
 [Google](https://google.com)
+
+---
+
+```
+Hello world
+Hello world
+Hello world
+Hello world
+```
